@@ -1,5 +1,5 @@
 using Tyuiu.FamutdinovaJI.Sprint4.Task3.V16.Lib;
-namespace Tyuiu.FamutdinovaJI.Sprint4.Task3.V16.Teat
+namespace Tyuiu.FamutdinovaJI.Sprint4.Task3.V16.Test
 {
     [TestClass]
     public class DataServiceTest
